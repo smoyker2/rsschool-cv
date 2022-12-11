@@ -24,12 +24,10 @@ function noSpace(x){
 let result = '';
 for(let i=0; i< x.length; i++)
 {
-if (x[i] == ' ')
-{
+if (x[i] == ' '){
 console.log('1')
 }
-else
-{
+else{
 result += x[i];
 }
 }
