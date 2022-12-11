@@ -1,1 +1,1 @@
-https://Smoyker2.github.io/rsschool-cv/cv
+https://Smoyker2.github.io/rsschool-cv/
