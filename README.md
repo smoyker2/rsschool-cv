@@ -1,2 +1,2 @@
 https://smoyker2.github.io/rsschool-cv/cv
-https://smoyker2.github.io/rsschool-cv/index
+https://smoyker2.github.io/rsschool-cv/
