@@ -6,7 +6,7 @@
 
 **E-mail:** Smoyker2@gmail.com
 
-**Briefly About Myself:** My name is Yarosau, i am from Belarus, have an economics degree, before rs-school i half-completed c# courses by EPAM.
+**Briefly About Myself:** My name is Yaroslau, i am from Belarus, have an economics degree, before rs-school i half-completed c# courses by EPAM.
 
 **Skills and Proficiency:**
 
