@@ -125,3 +125,10 @@ a{
     width:80px;
     height:80px;
 }
+.list_name
+{
+    list-style-type:none;
+    padding-bottom: 10px;
+    font-size:larger;
+    font-weight: bold;
+}
